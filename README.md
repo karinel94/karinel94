@@ -35,12 +35,12 @@ Changes to be committed:
 |     회원가입 기능 개발 끝!
 |
 * commit ca693fd
-| Author: Evan Moon <bboydart91@gmail.com>
+| Author: Evan Moon <coghcjf2@gmail.com>
 |
 |     회원가입 비밀번호 입력 폼 추가
 |
 * commit f9b6e2d
-| Author: Evan Moon <bboydart91@gmail.com>
+| Author: Evan Moon <coghcjf2@gmail.com>
 |
 |     회원가입 이메일 입력 폼 추가
 |
